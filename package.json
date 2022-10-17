@@ -1,0 +1,11 @@
+{
+  "name": "pay-split",
+  "version": "1.0.0",
+  "author": "npasquie <nicpas@live.fr>",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "ds-test": "https://github.com/dapphub/ds-test",
+    "forge-std": "https://github.com/foundry-rs/forge-std",
+    "kairos-loan-contracts": "ssh://git@github.com:npasquie/NFTACLP.git"
+  }
+}

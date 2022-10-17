@@ -1,0 +1,4 @@
+[profile.default]
+src = 'contracts'
+out = 'out'
+etherscan-api-key = 'GXA9WJUJJ5SEN5YFN2ZDH3RAMF3RJHIQFM'
